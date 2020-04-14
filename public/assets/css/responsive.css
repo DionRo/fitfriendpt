@@ -1,0 +1,2728 @@
+@media screen and (min-width: 1200px) and (max-width: 1300px) {
+    .trainer-box .owl-nav {
+        top: 100%;
+		text-align: center;
+		margin-top: 30px;
+		left: calc(50% - 0px);
+		width: 5px;
+		position: relative;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-prev {
+        margin-left: -10px;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-next {
+        margin-right: -10px;
+    }
+}
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+	.comming-main {
+		margin-top: -230px;
+	}
+    .img-position {
+        top: 5%;
+        left: 36%;
+    }
+    .services-box-instructor {
+        padding: 17px 0;
+    }
+    .services-box-instructor p {
+        margin-top: 0;
+    }
+    .service-page .services-box-instructor {
+        padding: 93px 0;
+    }
+    .service-page .details-section-boxs {
+        width: 100%;
+        max-height: 380px;
+        overflow: hidden;
+    }
+    .service-page .grid figure {
+        max-height: 380px;
+    }
+    .details-section-boxs {
+        width: 100%;
+        max-height: 250px;
+        overflow: hidden;
+    }
+    .grid figure {
+        max-height: 250px;
+    }
+    .instructor {
+        padding: 15.6% 0;
+    }
+    .instructor-1 {
+        padding: 22.1% 0;
+        display: inline-block;
+    }
+    .instructor h3,
+    .instructor-1 h3 {
+        font-size: 22px;
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+    .instructor-1 p {
+        margin-bottom: 5px;
+        padding: 0px 2px;
+        font-size: 14px;
+    }
+    .instructor a,
+    .instructor-1 a {
+        font-size: 12px;
+        text-align: center;
+        padding: 0;
+    }
+    .grid figure figcaption > a {
+        padding: 20% 0;
+    }
+    figure.gal-bubba h3 {
+        padding: 23% 0;
+    }
+    .owl-nav {
+        margin-top: 0;
+        top: inherit;
+    }
+    .owl-prev {
+        margin-left: 45%;
+    }
+    .owl-next {
+        margin-right: 45%;
+    }
+    .class-list p {
+        margin-bottom: 20px;
+    }
+    .img-position-3,
+    .img-position-1 {
+        padding: 0;
+        top: 65px;
+    }
+    .serv-text-1 {
+        padding: 129px 0;
+    }
+    .serv-text {
+        padding: 34.1% 0;
+    }
+    .serv-text h3,
+    .serv-text-1 h3 {
+        margin: 0 auto;
+        top: 10px;
+    }
+    .serv-text p,
+    .serv-text-1 p {
+        margin: 0 auto;
+        top: 15px;
+    }
+    .serv-text a,
+    .serv-text-1 a {
+        padding: 0;
+        top: 20px;
+    }
+    .instructor-serv {
+        padding: 16.03% 0;
+    }
+    .img-position-2 {
+        top: 65px;
+        margin: 0 auto;
+    }
+    .instructor-serv h3 {
+        margin: 5px auto;
+        font-size: 30px;
+        top: 15px;
+    }
+    .instructor-serv p {
+        margin: 5px auto;
+        padding: 0px 27%;
+        top: 15px;
+    }
+    .instructor-serv a {
+        margin: 0px auto;
+        top: 10px;
+        font-size: 14px;
+    }
+    .grid figure.ser-bubba a {
+        padding: 25% 0;
+    }
+    .grid figure.serv-bubba a {
+        padding: 46% 0;
+    }
+    .grid figure.serv-bubba h3 {
+        padding: 35% 0;
+    }
+    .comming-soon-content {
+        padding-bottom: 0px;
+    }
+    .timer {
+        font-size: 30px;
+        margin: 10px 0px;
+    }
+    #demo {
+        padding: 50px 3px;
+        display: table;
+        float: none;
+        margin: 0 auto;
+        width: 0;
+    }
+    #demo span {
+        width: 100%;
+    }
+    .comming-soon-icon {
+        padding-top: 0px;
+        margin: 0;
+    }
+    .comming-soon-icon ul {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        display: table;
+        width: 0;
+    }
+    .class-list {
+        padding: 12px 14px;
+    }
+}
+@media screen and (min-width: 1025px) and (max-width: 1199px) {
+	.comming-main {
+		margin-top: -230px;
+	}
+    a#atd {
+        margin-left: 18px;
+    }
+    .vertical-slider a.bx-prev {
+        position: absolute;
+        top: -9%;
+        left: 0;
+        font-size: 0px;
+        width: 82px;
+        height: 20px;
+    }
+    .vertical-slider {
+        padding-top: 40px;
+    }
+    .vertical-slider a.bx-prev:before {
+        line-height: 30px;
+    }
+    .vertical-slider a.bx-next:after {
+        left: 20px;
+        line-height: 21px;
+    }
+    .vertical-slider a.bx-next {
+        position: absolute;
+        top: 115%;
+        left: 0;
+        width: 82px;
+        font-size: 0px;
+        height: 20px;
+    }
+	.grid-select-1.spn select {
+		width: 67%;
+	}
+	.side-bar-product h4 {
+		font-size: 16px;
+	}
+    .navbar-collapse.collapse {
+        display: block!important;
+        height: auto!important;
+        padding-bottom: 0;
+        overflow: visible!important;
+    }
+    .navbar {
+        right: auto;
+        background: none;
+        border: none;
+    }
+    .navbar-collapse.body-menu-section ul li a {
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 14px;
+    }
+    .trainer-box .owl-nav {
+        top: 100%;
+		text-align: center;
+		margin-top: 30px;
+		left: calc(50% - 0px);
+		width: 5px;
+		position: relative;
+    }
+    .services-box-instructor {
+        padding: 13px 0;
+    }
+    .banner-text h1 {
+        font-size: 65px;
+        line-height: 70px;
+    }
+    .banner-text .slider-btn {
+        margin-top: 15px;
+    }
+    .service-sec-box p {
+        font-size: 15px;
+    }
+    .banner-main-headding {
+        top: 26%;
+    }
+    .yoga-service {
+        top: 50%;
+        margin-top: -30px;
+    }
+    .product-dtl-section p {
+        font-size: 12px;
+        line-height: 1.5em;
+        font-weight: 600;
+        padding-top: 10px;
+        color: #000;
+    }
+    .product-dtl-section h4 {
+        font-size: 16px;
+    }
+    .service-page .details-section-boxs {
+        width: 100%;
+        max-height: 366px;
+        overflow: hidden;
+    }
+    .service-page .grid figure {
+        max-height: 366px;
+    }
+    .service-page .services-box-instructor {
+        padding: 62.95px 0;
+    }
+    p.service-text-paragraf {
+        padding: 9.5px 70px !important;
+    }
+    .services-box-instructor p {
+        padding: 0 20px;
+        margin-top: 0.5px;
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    .details-section-boxs {
+        width: 100%;
+        max-height: 213.5px;
+        overflow: hidden;
+    }
+    .grid figure {
+        max-height: 213.5px;
+    }
+    .services-box-instructor h2 {
+        font-size: 24px;
+    }
+    .img-position {
+        top: 5%;
+        left: 36%;
+    }
+    .instructor,
+    .instructor-1 {
+        padding: 15.5% 0;
+        display: inline-block;
+    }
+    .instructor h3,
+    .instructor-1 h3 {
+        font-size: 22px;
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+    .instructor p,
+    .instructor-1 p {
+        margin-bottom: 5px;
+        padding: 0px 2px;
+        font-size: 14px;
+    }
+    .instructor a,
+    .instructor-1 a {
+        font-size: 12px;
+        text-align: center;
+        padding: 0;
+    }
+    .body-agency {
+        padding: 0px;
+    }
+    .body-agency h3 {
+        margin-bottom: 20px;
+    }
+    .owl-nav {
+        margin-top: 0;
+        top: inherit;
+    }
+    .owl-prev {
+        margin-left: 45%;
+    }
+    .owl-next {
+        margin-right: 45%;
+    }
+    .hover-detail a {
+        font-size: 14px;
+    }
+    .footer-detail p {
+        font-size: 14px;
+    }
+    .transform-footer h3 {
+        font-size: 21px;
+    }
+    .color-detail p {
+        font-size: 15px;
+    }
+    .budda-img {
+        padding: 7px 10px;
+    }
+    .about-font .trainer-icon ul li {
+        padding: 4px;
+    }
+    .blog-detail.marB20 {
+        margin-bottom: 10px;
+    }
+    .class-list {
+        padding:6px 15px;
+    }
+    .class-list p {
+        margin-bottom: 7px;
+        font-size: 14px;
+    }
+    .img-position-3,
+    .img-position-1 {
+        padding: 0;
+        top: 30px;
+    }
+    .serv-text-1 {
+        padding: 85px 0;
+    }
+    .serv-text {
+        padding: 27.2% 0;
+    }
+    .serv-text h3,
+    .serv-text-1 h3 {
+        margin: 0 auto;
+        top: 10px;
+    }
+    .serv-text p,
+    .serv-text-1 p {
+        margin: 0 auto;
+        top: 15px;
+    }
+    .serv-text a,
+    .serv-text-1 a {
+        padding: 0;
+        top: 20px;
+    }
+    .instructor-serv {
+        padding: 13.7% 0;
+    }
+    .img-position-2 {
+        top: 45px;
+        margin: 0 auto;
+    }
+    .instructor-serv h3 {
+        margin: 5px auto;
+        font-size: 30px;
+        top: 15px;
+    }
+    .instructor-serv p {
+        font-size: 18px;
+        margin: 5px auto;
+        padding: 0px 27%;
+        top: 15px;
+    }
+    .instructor-serv a {
+        font-size: 16px;
+        margin: 0px auto;
+        top: 10px;
+    }
+    .grid figure.ser-bubba a {
+        padding: 25% 0;
+    }
+    .grid figure.serv-bubba a {
+        padding: 46% 0;
+    }
+    .grid figure.serv-bubba h3 {
+        padding: 32% 0;
+    }
+    .trainer-list h4 {
+        margin: 5px 15px;
+        font-size: 16px;
+    }
+    .trainer-list p {
+        font-size: 13px;
+        margin: 0 0 7px;
+    }
+    .trainer-list li {
+        font-size: 12px;
+    }
+    .itg-button-5 {
+        padding: 5px;
+        top: 40%;
+        font-size: 15px;
+    }
+    .sidebar-list ul li {
+        padding: 5px;
+        font-size: 13px;
+    }
+    .sidebar-pera p {
+        margin-left: 10px;
+        font-size: 14px;
+    }
+    .sidebar-gallary-list {
+        width: 110%;
+    }
+    .blog-style h4 a {
+        font-size: 17px;
+    }
+    .img-w {
+        width: 100%;
+    }
+    .comming-soon-content {
+        padding-bottom: 0px;
+    }
+    .timer {
+        font-size: 30px;
+        margin: 10px 0px;
+    }
+    #demo {
+        padding: 50px 3px;
+        display: table;
+        float: none;
+        margin: 0 auto;
+        width: 0;
+    }
+    #demo span {
+        width: 100%;
+    }
+    .comming-soon-icon {
+        padding-top: 0px;
+        margin: 0;
+    }
+    .comming-soon-icon ul {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        display: table;
+        width: 0;
+    }
+    .body-agency h3 {
+        padding: 0 0px;
+    }
+    .trainer-list.sec {
+        padding-bottom: 5px;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-next {
+        float: right;
+        margin-right: -25px;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-prev {
+        float: left;
+        margin-left: -25px;
+    }
+    #home-page-1 .addres-detail p {
+        font-size: 13px;
+    }
+    #home-page-1 .blogs-sec a.bolg-comment-icons {
+        padding-right: 20px;
+    }
+    #home-page-1 .blogs-sec a.bolg-date {
+        padding-left: 20px;
+    }
+    #home-page-1 .footer-middle-sec h3 {
+        font-size: 23px;
+    }
+    #home-page-1 .newletter-section .search-bar,
+    .search-bar-1 {
+        width: 72%;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+	.comming-main {
+		margin-top: -230px;
+	}
+    .vertical-slider a.bx-next {
+        top: 111%;
+        left: 0;
+        width: 85px;
+        position: absolute;
+    }
+    .vertical-slider a.bx-prev {
+        top: -12%;
+        left: 0;
+        position: absolute;
+        width: 85px;
+    }
+	.grid-select-1.spn select {
+		width: 67%;
+	}
+	.price-filter input {
+		padding: 0 5px;
+	}
+	.side-bar-product h4 {
+		font-size: 16px;
+	}
+    .left-side.open .dropdown-menu {
+        margin-left: -200px !important;
+        top: 103.5% !important;
+    }
+    .body-menu-1 {
+        position: relative;
+    }
+    .banner-text h1 {
+        font-size: 60px;
+        line-height: 65px;
+        text-align: center;
+    }
+    .banner-text .slider-btn {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .service-sec-box p {
+        font-size: 15px;
+    }
+    .banner-text h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .banner-main-headding {
+        top: 27%;
+    }
+    .services-box-instructor h2 {
+        font-size: 24px;
+        margin-top: -5px;
+    }
+    .product-dtl p {
+        font-size: 16px;
+        line-height: 1.5em;
+        font-weight: 600;
+        padding-top: 10px;
+        color: #000;
+    }
+    .hover-detail a {
+        font-size: 14px;
+    }
+    .footer-detail p {
+        font-size: 14px;
+    }
+    .nav>li>a {
+        padding: 15px 10px;
+    }
+    .service-page .details-section-boxs {
+        width: 100%;
+        max-height: 360px;
+        overflow: hidden;
+    }
+    .service-page .grid figure {
+        max-height: 360px;
+    }
+    .service-page .services-box-instructor {
+        padding: 65.2px 0;
+    }
+    p.service-text-paragraf {
+        padding: 9.5px 20px !important;
+    }
+    .services-box-instructor {
+        padding: 11.8px 0;
+    }
+    .details-section-boxs {
+        width: 100%;
+        max-height: 206px;
+        overflow: hidden;
+    }
+    .grid figure {
+        max-height: 206px;
+    }
+    .services-box-instructor p {
+        padding: 0 20px;
+        margin-top: 1px;
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+    .body-agency {
+        padding: 0px;
+    }
+    .body-agency h3 {
+        margin-bottom: 13px;
+    }
+    figure.effect-bubba.gal-bubba img {
+        width: 100%;
+    }
+    .img-position {
+        top: 5%;
+        left: 36%;
+    }
+    .instructor,
+    .instructor-1 {
+        padding: 28px 0;
+        display: inline-block;
+    }
+    .instructor h3,
+    .instructor-1 h3 {
+        font-size: 22px;
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+    .instructor p,
+    .instructor-1 p {
+        margin-bottom: 5px;
+        padding: 0px 2px;
+        font-size: 14px;
+    }
+    .instructor a,
+    .instructor-1 a {
+        font-size: 12px;
+        text-align: center;
+        padding: 0;
+    }
+    .owl-nav {
+        margin-top: 0;
+        top: inherit;
+    }
+    .owl-prev {
+        margin-left: 45%;
+    }
+    .owl-next {
+        margin-right: 45%;
+    }
+    #partners .owl-nav {
+        margin: 20px 0;
+    }
+    .team-section-1 .owl-theme .owl-nav .owl-next {
+        float: right;
+        margin-right: 0;
+    }
+    .team-section-1 .owl-theme .owl-nav .owl-prev {
+        float: left;
+        margin-left: 0;
+    }
+    .transform-footer h3 {
+        font-size: 21px;
+    }
+    .color-detail p {
+        font-size: 13px;
+    }
+    .budda-img {
+        padding: 7px 10px;
+    }
+    .about-font .trainer-icon ul li {
+        padding: 4px;
+    }
+    .search-404 button {
+        top: 1px;
+    }
+    .blog-detail.marB20 {
+        margin-bottom: 10px;
+    }
+    .class-list p {
+        margin-bottom: 7px;
+        font-size: 14px;
+    }
+    .sidebar-list ul li {
+        padding: 5px;
+        font-size: 13px;
+    }
+    figure.team-img img,
+    .trainer-effect figure img {
+        width: 100%;
+    }
+    .trainer-color {
+        width: 50%;
+    }
+    .trainer-list h4 {
+        margin: 5px 15px;
+        font-size: 16px;
+    }
+    .trainer-list p {
+        font-size: 13px;
+        margin: 0 0 7px;
+    }
+    .trainer-list li {
+        font-size: 12px;
+    }
+    .img-position-3,
+    .img-position-1 {
+        padding: 0;
+        top: 30px;
+    }
+    .serv-text-1 {
+        padding: 85px 0;
+    }
+    .serv-text {
+        padding: 27.2% 0;
+    }
+    .serv-text h3,
+    .serv-text-1 h3 {
+        margin: 0 auto;
+        top: 10px;
+    }
+    .serv-text p,
+    .serv-text-1 p {
+        margin: 0 auto;
+        top: 15px;
+    }
+    .serv-text a,
+    .serv-text-1 a {
+        padding: 0;
+        top: 20px;
+    }
+    .instructor-serv {
+        padding: 11.7% 0;
+    }
+    .img-position-2 {
+        top: 45px;
+        margin: 0 auto;
+    }
+    .instructor-serv h3 {
+        margin: 5px auto;
+        font-size: 30px;
+        top: 15px;
+    }
+    .instructor-serv p {
+        font-size: 18px;
+        margin: 5px auto;
+        padding: 0px 27%;
+        top: 15px;
+    }
+    .instructor-serv a {
+        font-size: 16px;
+        margin: 0px auto;
+        top: 10px;
+    }
+    .grid figure.ser-bubba a {
+        padding: 25% 0;
+    }
+    .grid figure.serv-bubba a {
+        padding: 46% 0;
+    }
+    .grid figure.serv-bubba h3 {
+        padding: 32% 0;
+    }
+    .class-list {
+        padding:6px 15px;
+    }
+    .blog-style h4 a {
+        font-size: 17px;
+    }
+    .sidebar-content p {
+        font-size: 13px;
+    }
+    .img-w {
+        width: 100%;
+    }
+    .comming-soon-content {
+        padding-bottom: 0px;
+    }
+    .timer {
+        font-size: 30px;
+        margin: 10px 0px;
+    }
+    #demo {
+        padding: 50px 3px;
+        display: table;
+        float: none;
+        margin: 0 auto;
+        width: 0;
+    }
+    #demo span {
+        width: 100%;
+    }
+    .comming-soon-icon {
+        padding-top: 0px;
+        margin: 0;
+    }
+    .comming-soon-icon ul {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        display: table;
+        width: 0;
+    }
+    .trainer-box .owl-prev {
+        margin-left: 45%;
+    }
+    .trainer-box .owl-next {
+        margin-right: 45%;
+    }
+    .trainer-box .owl-nav {
+        position: absolute;
+        top: 105%;
+    }
+    #partners .owl-prev {
+        margin-left: 45%;
+    }
+    #partners .owl-next {
+        margin-right: 45%;
+    }
+    #partners .owl-nav {
+        position: absolute;
+        top: 100%;
+    }
+    .yoga-service {
+        top: 50%;
+        margin-top: -20px;
+    }
+    .body-agency h3 {
+        padding: 0 0px;
+    }
+    .trainer-list.sec {
+        padding-bottom: 5px;
+    }
+    .trainer-box .owl-nav {
+        top: 100%;
+		text-align: center;
+		margin-top: 30px;
+		left: calc(50% - 0px);
+		width: 5px;
+		position: relative;
+    }
+    .product-dtl-section h4 {
+        font-size: 16px;
+    }
+    .product-dtl-section p {
+        font-size: 12px;
+        line-height: 1.5em;
+        font-weight: 600;
+        padding-top: 10px;
+        color: #000;
+    }
+    .cart-quantity-box {
+        right: -5px;
+    }
+    #home-page-1 #sliderhome .banner-main-headding {
+        top: 25%;
+    }
+    #home-page-1 .testimonal-section .owl-nav {
+        position: relative;
+        margin-top: 30px;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-next {
+        float: none;
+        margin-right: 0;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-prev {
+        float: none;
+        margin-left: 0;
+    }
+    #home-page-1 .addres-detail p {
+        font-size: 13px;
+    }
+    #home-page-1 .blogs-sec a.bolg-date {
+        padding-left: 20px;
+    }
+    #home-page-1 .blogs-sec a.bolg-comment-icons {
+        padding-right: 20px;
+    }
+    #home-page-1 .footer-middle-sec h3 {
+        font-size: 23px;
+    }
+    #home-page-1 .newletter-section .search-bar,
+    .search-bar-1 {
+        width: 72%;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.addres-detail p {
+		font-size: 11px;
+	}
+	.cart_total_one{
+		margin-top:30px;
+	}
+    .vertical-slider {
+        padding-top: 28px;
+    }
+    .vertical-slider a.bx-prev {
+        top: -5%;
+        height: 13px;
+        width: 62px;
+    }
+    .vertical-slider a.bx-prev:before {
+        top: -13px;
+    }
+    .vertical-slider a.bx-next {
+        left: 0;
+        top: 111%;
+        width: 62px;
+        height: 13px;
+    }
+    .vertical-slider a.bx-next:after {
+        left: 20px;
+        line-height: 15px;
+    }
+    .left-side.open .dropdown-menu {
+        margin-left: -200px !important;
+        top: 103.5% !important;
+    }
+    .services-details-pages .about-font P {
+        font-size: 14px;
+    }
+    .cart-quantity-box {
+        right: -11px;
+        font-size: 10px;
+        margin-top: -11px;
+    }
+    .services-box-instructor p {
+        padding: 0 20px;
+        margin-top: 10px;
+        margin-bottom: 8px;
+        font-size: 14px;
+    }
+    .product-dtl h4 {
+        font-size: 18px;
+    }
+    .product-dtl p {
+        font-size: 16px;
+        line-height: 1.5em;
+        font-weight: 600;
+        padding-top: 10px;
+        color: #000;
+    }
+    .detail-section select {
+        padding: 0;
+    }
+    .team-section-1 .owl-theme .owl-nav .owl-prev {
+        float: left;
+        margin-left: 0;
+    }
+    .team-section-1 .owl-theme .owl-nav .owl-next {
+        float: right;
+        margin-right: 0;
+    }
+    .grid-section-1 h5 {
+        letter-spacing: 0;
+        font-size: 14px;
+        margin-left: -20px;
+        width: 152px;
+    }
+    .service-sec-box p {
+        padding: 0px 35px;
+        color: #fff;
+        font-size: 13px;
+        padding-bottom: 0;
+    }
+    .trainer-color {
+        width: 58%;
+        padding-bottom: 19px;
+        position: relative;
+    }
+    .table-padB {
+        padding-bottom: 30px;
+    }
+    p.service-text-paragraf {
+        padding: 0 20px !important;
+        margin-bottom: 0px!important;
+    }
+    .service-page .services-box-instructor {
+        padding: 31px 0;
+    }
+    .services-box-instructor {
+        padding: 50px 0;
+    }
+    .services-box-instructor h2 {
+        font-size: 24px;
+    }
+    .details-section-boxs {
+        width: 100%;
+        max-height: 305px;
+        overflow: hidden;
+    }
+    .grid figure {
+        max-height: 305px;
+    }
+    .trainer-box .owl-prev {
+        margin-left: 45%;
+    }
+    .trainer-box .owl-next {
+        margin-right: 45%;
+    }
+    .trainer-box .owl-nav {
+        position: absolute;
+        top: 105%;
+    }
+    #partners .owl-prev {
+        margin-left: 45%;
+    }
+    #partners .owl-next {
+        margin-right: 45%;
+    }
+    #partners .owl-nav {
+        position: absolute;
+        top: 110%;
+    }
+    .capitalize p {
+        font-size: 14px;
+    }
+    .blog-detail-1 p {
+        font-size: 14px;
+    }
+    .navbar-default {
+        background-color: transparent;
+    }
+    .navbar-toggle {
+        margin: 0;
+    }
+    .body-menu-1 {
+        position: relative;
+    }
+    .navbar-collapse.collapse.body-menu-section ul li a {
+        font-size: 14px;
+        color: #fff;
+    }
+    .navbar-nav>li>a {
+        padding: 15px 4px;
+    }
+    .itg-button-2 {
+        top: 0;
+    }
+    ul.fot-bom-bar {
+        float: left;
+        margin: 0px -20px;
+        display: table;
+    }
+    .yoga-service h1 {
+        font-size: 50px;
+    }
+    .slider-btn,
+    .yoga-service {
+        top: 0;
+    }
+    figcaption.team-icon ul {
+        margin: 0 auto;
+    }
+    figure.effect-bubba.gal-bubba img {
+        width: 100%;
+    }
+    figure.effect-bubba img {
+        margin: 0;
+    }
+    figure.gal-bubba h3 {
+        padding: 26% 0;
+    }
+    .img-position {
+        top: 5%;
+    }
+    .instructor {
+        padding: 20.1% 0;
+    }
+    .instructor-1 {
+        padding: 17.2% 0;
+    }
+    .fot-bom-bar li a {
+        padding: 15px 16px;
+    }
+    .footer-top-box p {
+        padding: 0 0px;
+    }
+    .priceing-box {
+        margin-bottom: 30px;
+    }
+    figure.banner-respons {
+        text-align: center;
+    }
+    .body-agency h3 {
+        text-align: left;
+        margin-top: 30px;
+    }
+    .owl-nav {
+        margin-top: 0;
+        top: inherit;
+    }
+    .owl-prev {
+        margin-left: 42%;
+    }
+    .owl-next {
+        margin-right: 42%;
+    }
+    #partners .owl-nav {
+        margin: 10px 0;
+    }
+    div#banner .owl-nav {
+        top: 60%;
+    }
+    .class-list {
+        padding: 29px;
+    }
+    .transform-footer h3 {
+        font-size: 19px;
+    }
+    .color-detail p {
+        font-size: 14px;
+    }
+    .about-font P {
+        font-size: 11px;
+    }
+    .about-font .trainer-icon ul li {
+        padding: 2px;
+        font-size: 12px;
+    }
+    .search-404 button {
+        top: 1px;
+    }
+    .img-position-3,
+    .img-position-1 {
+        padding: 0px;
+        top: 10px;
+    }
+    .serv-text {
+        padding: 14.4% 0;
+    }
+    .serv-text h3,
+    .serv-text-1 h3 {
+        font-size: 24px;
+        top: 20px;
+    }
+    .serv-text p,
+    .serv-text-1 p {
+        top: 8px;
+        margin: 0 auto;
+        font-size: 15px;
+    }
+    .serv-text a,
+    .serv-text-1 a {
+        font-size: 14px;
+        padding: 0;
+        top: 10px;
+    }
+    .img-position-2 {
+        margin: 0 auto;
+        top: 10px;
+    }
+    .serv-text-1 {
+        padding: 14.3% 0;
+    }
+    .instructor-serv {
+        padding: 12.4% 0;
+    }
+    .instructor-serv h3 {
+        margin: 0 auto;
+        top: 10px;
+    }
+    .instructor-serv p {
+        margin: 0 auto;
+        padding: 0px 26px;
+        top: 10px;
+    }
+    .instructor-serv a {
+        text-align: center;
+        top: 10px;
+    }
+    .grid figure.ser-bubba a {
+        padding: 25% 0;
+    }
+    figure.ser-bubba h3 {
+        padding: 12% 0;
+    }
+    .serv-bubba h3 {
+        font-size: 18px;
+    }
+    .serv-bubba a {
+        font-size: 12px;
+    }
+    .grid figure.serv-bubba a {
+        padding: 46% 0;
+    }
+    .grid figure.serv-bubba h3 {
+        padding: 32% 0;
+    }
+    .grid-select {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .grid-section-1 h5 {
+        letter-spacing: 0;
+    }
+    .class-list p {
+        margin-bottom: 7px;
+        font-size: 14px;
+    }
+    .blog-full-1 .class-font p {
+        font-size: 13px;
+    }
+    .class-font p {
+        font-size: 14px;
+    }
+    .blog-full-1 .trainer-icon ul li {
+        padding: 1px;
+    }
+    .trainer-icon ul li {
+        padding: 3px;
+    }
+    .our-detail h5 {
+        font-size: 12px
+    }
+    .our-detail h4 {
+        font-size: 14px;
+    }
+    .search-bar button {
+        left: 100%;
+        margin-left: -30px;
+    }
+    figure.team-img img,
+    .trainer-effect figure img {
+        width: 100%;
+    }
+    .sidebar-list ul li {
+        padding: 5px;
+    }
+    .sidebar-list ul li a {
+        font-size: 14px;
+    }
+    .service-icon-1 ul li {
+        padding: 20px 9px;
+    }
+    .blog-style {
+        margin-bottom: 30px;
+    }
+    .blog-mar {
+        margin-bottom: 0px;
+    }
+    .sidebar-content p {
+        font-size: 13px;
+    }
+    .img-w {
+        width: 100%;
+    }
+    .comming-main {
+		margin-top: -229.5px;
+	}
+    .comming-soon-content {
+        padding-bottom: 0px;
+    }
+    .timer {
+        font-size: 30px;
+        width: 75px;
+        height: 75px;
+        padding: 25px 0;
+        margin: 10px 0px;
+    }
+    #demo {
+        padding: 50px 3px;
+        display: table;
+        float: none;
+        margin: 0 auto;
+        width: 0;
+    }
+    #demo span {
+        width: 100%;
+    }
+    .comming-soon-icon {
+        padding-top: 0px;
+        margin: 0;
+    }
+    .comming-soon-icon ul {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        display: table;
+        width: 0;
+    }
+    
+    .banner-text h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .banner-main-headding {
+        top: 29%;
+    }
+    .banner-text h1 {
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+    }
+    .banner-text .slider-btn {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .trainer-box .owl-nav {
+        top: 100%;
+        text-align: center;
+        margin-top: 30px;
+        left: calc(50% - 0px);
+        width: 5px;
+		position:relative;
+    }
+    #home-page-1 #sliderhome .banner-main-headding {
+        top: 23%;
+    }
+    #home-page-1 #sliderhome .banner-text h3 {
+        font-size: 30px;
+    }
+    #home-page-1 #sliderhome .banner-text h1 {
+        font-size: 40px;
+        line-height: 45px;
+        text-align: center;
+    }
+    #home-page-1 #sliderhome .banner-text .slider-btn {
+        margin-top: 20px;
+    }
+    figure.about-img img {
+        width: 100%;
+    }
+    .about-sec-box {
+        padding-top: 30px;
+    }
+    .facts-section .counter-nane {
+        font-size: 12px;
+    }
+	
+    #home-page-1 .testimonal-section .owl-nav {
+        position: relative;
+        margin-top: 30px;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-next {
+        float: none;
+        margin-right: 0;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-prev {
+        float: none;
+        margin-left: 0;
+    }
+    #home-page-1 .addres-iocns {
+        text-align: center;
+    }
+    #home-page-1 .addres-detail {
+        text-align: center;
+        padding-top: 10px;
+    }
+    #home-page-1 .blogs-sec a.bolg-comment-icons {
+        float: right;
+        padding-right: 5px;
+        color: #fff;
+        font-size: 12px;
+    }
+    #home-page-1 .blogs-sec a.bolg-date {
+        float: left;
+        color: #fff;
+        font-size: 12px;
+        padding-left: 5px;
+    }
+    #home-page-1 .footer-about-box {
+        padding-top: 15px;
+    }
+    #home-page-1 .footer-section .transform-footer h4 {
+        margin-top: 20px;
+    }
+    #home-page-1 .footer-middle-sec h3 {
+        font-size: 17px;
+        padding-top: 7px;
+    }
+    #home-page-1 .footer-middle-sec p {
+        font-size: 11px;
+    }
+    #home-page-1 .footer-middle-sec figure {
+        padding-right: 15px;
+    }
+    #home-page-1 .newletter-section .search-bar,
+    .search-bar-1 {
+        width: 68%;
+    }
+    #home-page-1 ul.newletter-icon-box li a {
+        padding: 0 2px;
+        font-size: 14px;
+    }
+    a#atd {
+        margin-left: 0px;
+    }
+	.margin-bottom{
+		margin-bottom:0;
+	}
+	.grid-select-1.spn select {
+		width: 50%;
+	}
+	.product-dtl-section {
+		margin: 50px 0;
+	}
+	.page_margin{
+		margin-top:30px;
+	}
+}
+@media screen and (min-width: 481px) and (max-width: 767px) {
+    .details-section-boxs .effect-bubba img {
+        width: 100%;
+    }
+    .fot-bom-bar li a {
+        padding: 15px 15px;
+    }
+    .footer-secton-bottom .capitalize p {
+        text-align: center;
+    }
+    .footer-top-box p {
+        padding: 0 0px;
+    }
+    .details-section-boxs {
+        width: 100%;
+        max-height: 535px;
+        overflow: hidden;
+    }
+    .grid figure {
+        max-height: 535px;
+    }
+    .service-page .details-section-boxs {
+        width: 100%;
+        max-height: 641px;
+        overflow: hidden;
+    }
+    .service-page .grid figure {
+        max-height: 641px;
+    }
+    .nav-menu-sec {
+        position: relative;
+    }
+    .body-menu-1 {
+        position: relative;
+    }
+    .navbar.navbar-default.theme-bg.mar0 {
+        padding: 5px 0;
+    }
+    .navbar-default {
+        background-color: transparent;
+    }
+    .navbar-toggle {
+        margin: 0;
+    }
+    .itg-button-2 {
+        top: 0;
+    }
+    .navbar-collapse.collapse.body-menu-section ul li a {
+        color: #fff;
+    }
+    .wa-main-menu.navbar-default.navbar-nav>li>a:hover {
+        color: #000;
+        background-color: transparent;
+    }
+    .yoga-service {
+        top: 0;
+        margin: 10px 0;
+    }
+    .navbar-nav > li {
+        text-align: left;
+    }
+    .breadcrumb-section {
+        padding-bottom: 100px;
+        padding-top: 100px;
+    }
+    .banner-main-headding {
+        top: 25%;
+    }
+    .yoga-service {
+        top: 25px;
+    }
+    .slider-btn {
+        top: 15px;
+    }
+    .yoga-service h3 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .yoga-service h1 {
+        font-size: 26px;
+        text-align: center;
+    }
+    .banner-text-sec p {
+        text-align: center;
+    }
+    .banners-text-1 p {
+        font-size: 35px;
+        text-align: center;
+    }
+    .banners-text-1 {
+        margin: 8px 0px;
+    }
+    figure.banner-respons {
+        text-align: center;
+    }
+    .our-team-effect figure img,
+    figure.img-responsive img {
+        width: 100%;
+    }
+    .body-agency h3 {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .respons-img {
+        padding-top: 0px;
+    }
+    .respons-pad {
+        padding-bottom: 70px;
+    }
+    .agency-1 p,
+    .blog-detail-1,
+    .priceing-box {
+        margin-bottom: 30px;
+    }
+    .banner-btn-1 {
+        text-align: center;
+    }
+    .owl-prev {
+        margin-left: 40%;
+    }
+    .owl-next {
+        margin-right: 40%;
+    }
+    .owl-nav {
+        margin-top: 10px;
+        top: 100%;
+    }
+    div#banner .owl-nav {
+        margin-top: -10px;
+    }
+    .footer-detail {
+        padding-bottom: 30px;
+    }
+    .body-agency h3,
+    .agency-1 p,
+    .agency-1 h4,
+    .color-detail p,
+    .transform-footer h3 {
+        text-align: center;
+    }
+    figure.img-res {
+        text-align: center;
+        width: 15%;
+        margin: 0 auto;
+    }
+    .margin-detail {
+        float: none;
+        width: 0;
+        display: table;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .tooltip.top .tooltip-arrow {
+        margin-left: -15px;
+    }
+    .service-icon h4 {
+        padding: 20px 38px;
+    }
+    .service-icon-1 {
+        padding: 0 20px
+    }
+    .service-icon-1 ul li {
+        letter-spacing: 0px;
+    }
+    .search-404 button {
+        right: 1px;
+        top: 1px;
+    }
+    .search-404 input {
+        margin: 0px;
+    }
+    figure.effect-bubba.serv-bubba img {
+        width: 100%;
+    }
+    .instructor-serv p {
+        padding: 0 50px;
+    }
+    .img-position-2 {
+        margin-bottom: 0px;
+        margin-top: 20px;
+    }
+    .img-position-1,
+    .img-position-3 {
+        padding: 20px 0 0 0;
+    }
+    .serv-text-1,
+    .serv-text {
+        padding: 15.07% 0;
+    }
+    figure.ser-bubba h3 {
+        padding: 12% 0;
+    }
+    .grid figure.ser-bubba a {
+        padding: 25% 0;
+    }
+    .grid figure.serv-bubba h3 {
+        padding: 40% 0;
+    }
+    .grid figure.serv-bubba a {
+        padding: 49% 0;
+    }
+    .grid-section-1 h5 {
+        text-align: center;
+    }
+    button.itg-button-3 {
+        margin-bottom: 30px;
+    }
+    .depth-section-1,
+    .depth-section-2 {
+        margin-left: 0;
+    }
+    figure.team-img img,
+    .trainer-effect figure img,
+    .trainer-color {
+        width: 100%;
+    }
+    figure.img-cntr.marB10 {
+        text-align: center;
+    }
+    .search-bar button {
+        left: 100%;
+        margin-left: -30px;
+    }
+    .search-bar-1 button {
+        left: 100%;
+        margin-left: -38px;
+    }
+    .itg-button-5 {
+        padding: 10px 20px;
+    }
+    .sidebar-banner,
+    .sidebar-banner figure,
+    .sidebar-banner figure img,
+    .footer-gallary li a img,
+    .footer-gallary li a,
+    .img-service li a,
+    .img-service li a img {
+        width: 100%;
+    }
+    figure.comment-img img {
+        margin-bottom: 15px;
+    }
+    .blog-full-1 {
+        margin-bottom: 30px;
+        width: 100%;
+    }
+    .depth-section,
+    .depth-section-1,
+    .depth-section-2 {
+        margin-bottom: 10px;
+    }
+    .service-icon-1 ul li {
+        padding: 20px 11px;
+    }
+    .sidebar-box,
+    .sidebar-pera {
+        margin-bottom: 15px;
+        padding: 2px;
+    }
+    .comming-main {
+        margin-top: -224.5px;
+    }
+    .comming-soon-content {
+        padding-bottom: 0px;
+    }
+    .timer {
+        font-size: 30px;
+        width: 75px;
+        height: 75px;
+        padding: 25px 0;
+        margin: 10px 0px;
+    }
+    #demo {
+        padding: 50px 3px;
+        display: table;
+        float: none;
+        margin: 0 auto;
+        width: 0;
+    }
+    #demo span {
+        width: 100%;
+    }
+    .comming-soon-icon {
+        padding-top: 0px;
+        margin: 0;
+    }
+    .comming-soon-icon ul {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        display: table;
+        width: 0;
+    }
+    /* .comming-soon-icon ul li {
+        padding: 20px 5px;
+    } */
+	.comming-soon-content p {
+		max-width: 68%;
+		margin: auto;
+	}
+}
+@media screen and (min-width: 480px) and (max-width: 480px) {
+    .nav-menu-sec {
+        position: relative;
+    }
+    .footer-top-box p {
+        padding: 0 0px;
+    }
+    #home-page-1 #sliderhome .banner-main-headding {
+        top: 20%;
+    }
+    .body-menu-1 {
+        position: relative;
+    }
+    .navbar.navbar-default.theme-bg.mar0 {
+        padding: 5px 0;
+    }
+    .navbar-default {
+        background-color: transparent;
+    }
+    .navbar-toggle {
+        margin: 0;
+    }
+    .itg-button-2 {
+        top: 0;
+    }
+    .wa-main-menu.navbar-default.navbar-nav>li>a:hover {
+        color: #000;
+        background-color: transparent;
+    }
+    .yoga-service {
+        top: 0;
+        margin: 10px 0;
+    }
+    .slider-btn {
+        top: 0;
+    }
+    .navbar-nav > li {
+        text-align: left;
+    }
+    .breadcrumb-section {
+        padding-bottom: 100px;
+        padding-top: 100px;
+    }
+    .banner-main-headding {
+        top: 23%;
+    }
+    .yoga-service {
+        top: 0;
+    }
+    .yoga-service h3 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .yoga-service h1 {
+        font-size: 26px;
+        text-align: center;
+    }
+    .banner-text-sec p {
+        text-align: center;
+    }
+    .banners-text-1 p {
+        font-size: 35px;
+        text-align: center;
+    }
+    .banners-text-1 {
+        margin: 8px 0px;
+    }
+    .banner-btn-1 {
+        text-align: center;
+    }
+    .body-agency h3 {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .agency-1 {
+        padding: 0;
+    }
+    .our-team-effect figure img,
+    figure.img-responsive img {
+        width: 100%;
+    }
+    .body-agency h3 {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .respons-img {
+        padding-top: 0px;
+    }
+    .respons-pad {
+        padding-bottom: 70px;
+    }
+    .agency-1 p,
+    .blog-detail-1,
+    .priceing-box {
+        margin-bottom: 30px;
+    }
+    .owl-prev {
+        margin-left: 36%;
+    }
+    .owl-next {
+        margin-right: 36%;
+    }
+    .owl-nav {
+        margin-top: 10px;
+        top: 100%;
+    }
+    #partners .owl-nav {
+        margin: 10px 0;
+    }
+    div#banner .owl-nav {
+        margin-top: -10px;
+    }
+    div#banner .owl-prev {
+        margin-left: 20px;
+    }
+    div#banner .owl-next {
+        margin-right: 20px;
+    }
+    .footer-detail {
+        padding-bottom: 30px;
+    }
+    .body-agency h3,
+    .agency-1 p,
+    .agency-1 h4,
+    .color-detail p,
+    .transform-footer h3 {
+        text-align: center;
+    }
+    figure.img-res {
+        text-align: center;
+        width: 15%;
+        margin: 0 auto;
+    }
+    .margin-detail {
+        float: none;
+        width: 0;
+        display: table;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .tooltip.top .tooltip-arrow {
+        margin-left: -15px;
+    }
+    .service-icon h4 {
+        padding: 20px 40px;
+    }
+    .service-icon-1 {
+        float: none;
+        padding: 0 20px
+    }
+    .service-icon-1 ul li {
+        letter-spacing: 0px
+    }
+    .search-404 button {
+        right: 1px;
+        top: 1px;
+    }
+    .search-404 input {
+        margin: 0px;
+    }
+    figure.effect-bubba.serv-bubba img {
+        width: 100%;
+    }
+    .grid figure {
+        margin: 0 auto;
+        display: table;
+    }
+    .img-position-3,
+    .img-position-1 {
+        padding: 20px 0;
+    }
+    .img-position-2 {
+        margin-top: 20px;
+        margin-bottom: 0px;
+    }
+    .serv-text {
+        padding: 65px 0;
+    }
+    .serv-text h3,
+    .serv-text-1 h3 {
+        margin: 10px 0;
+    }
+    .serv-text p,
+    .serv-text-1 p {
+        margin: 0px 0 10px 0;
+    }
+    .instructor-serv p {
+        padding: 0 20px;
+    }
+    .serv-text-1 {
+        padding: 15.07% 0;
+    }
+    figure.ser-bubba h3 {
+        padding: 10% 0;
+    }
+    .grid figure.ser-bubba a {
+        padding: 24% 0;
+    }
+    .grid figure.serv-bubba h3 {
+        padding: 38% 0;
+    }
+    .grid figure.serv-bubba a {
+        padding: 47% 0;
+    }
+    .grid-section-1 h5 {
+        text-align: center;
+    }
+    button.itg-button-3 {
+        margin-bottom: 30px;
+    }
+    .depth-section-1,
+    .depth-section-2 {
+        margin-left: 0;
+    }
+    figure.team-img img,
+    .trainer-effect figure img,
+    .trainer-color {
+        width: 100%;
+    }
+    figure.img-cntr.marB10 {
+        text-align: center;
+    }
+    .itg-button-5 {
+        padding: 10px 20px;
+    }
+    .search-bar-1 button {
+        top: 1px;
+        left: 100%;
+        margin-left: -38px;
+    }
+    .search-bar button {
+        left: 90%;
+    }
+    .sidebar-banner,
+    .sidebar-banner figure,
+    .sidebar-banner figure img,
+    .footer-gallary li a img,
+    .footer-gallary li a,
+    .img-service li a,
+    .img-service li a img {
+        width: 100%;
+    }
+    figure.comment-img img {
+        margin-bottom: 15px;
+    }
+    .blog-full-1 {
+        margin-bottom: 30px;
+    }
+    .depth-section,
+    .depth-section-1,
+    .depth-section-2 {
+        margin-bottom: 10px;
+    }
+    .service-icon-1 ul li {
+        padding: 20px 12px;
+    }
+    .sidebar-box,
+    .sidebar-pera {
+        margin-bottom: 15px;
+        padding: 2px;
+    }
+    .comming-main {
+        margin-top: -229.5px;
+    }
+    .comming-soon-content {
+        padding-bottom: 0px;
+    }
+    .timer {
+        font-size: 30px;
+        width: 75px;
+        height: 75px;
+        padding: 25px 0;
+        margin: 10px 0px;
+    }
+    #demo {
+        padding: 50px 3px;
+        display: table;
+        float: none;
+        margin: 0 auto;
+        width: 0;
+    }
+    .com-pad0 {
+        padding: 0 5px;
+    }
+    .comming-soon-icon {
+        padding-top: 0px;
+        margin: 0;
+    }
+    .comming-soon-icon ul {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        display: table;
+        width: 0;
+    }
+    .fot-bom-bar li a {
+        font-size: 14px;
+        padding: 15px 15px;
+    }
+    .footer-secton-bottom .capitalize p {
+        text-align: center;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .wa-main-menu .navbar-default .navbar-nav>li>a:focus,
+    .wa-main-menu .navbar-default .navbar-nav>li>a:hover {
+        color: #4f004f;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #FFF;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+        background: transparent!important;
+        color: #FFF;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+    .trainer-box .owl-prev {
+        margin-left: 38%;
+    }
+    .trainer-box .owl-next {
+        margin-right: 38%;
+    }
+    .trainer-color-1 {
+        padding: 20px 20px 0px 20px;
+    }
+    .trainer-box .owl-nav {
+        top: 100%;
+        text-align: center;
+        margin-top: 30px;
+        left: calc(50% - 40px);
+        width: 120px;
+		position:relative;
+    }
+    .trainer-box-1 .owl-nav {
+        top: 100%;
+		text-align: center;
+		margin-top: 30px;
+		left: calc(50% - 40px);
+		width: 120px;
+		position: relative;
+    }
+	.cart_total{
+		margin-top:30px;
+	}
+    #partners .owl-prev {
+        margin-left: 38%;
+    }
+    #partners .owl-next {
+        margin-right: 38%;
+    }
+    #partners .owl-nav {
+        position: absolute;
+        top: 125%;
+    }
+    .capitalize p {
+        font-size: 13px;
+    }
+    .class-list h4 a {
+        font-size: 17px;
+    }
+    .navbar > .container .navbar-brand,
+    .navbar > .container-fluid .navbar-brand {
+        width: 125px;
+    }
+    .search-icon.s-icon.mobail a i {
+        float: right;
+        margin: 16px 20px;
+        font-size: 18px;
+    }
+    a.opencart i {
+        color: #fff;
+    }
+    .mini-close-icons i {
+        top: 0px;
+        right: -3px;
+    }
+    .navbar-default .navbar-toggle {
+        background-color: #000;
+    }
+    .navbar-default .navbar-toggle:focus,
+    .navbar-default .navbar-toggle:hover {
+        background: #000;
+    }
+    .navbar-default .navbar-toggle {
+        margin: 9px 0;
+    }
+    .navbar.navbar-default.theme-bg.mar0 {
+        padding: 5px 0;
+        background: #000;
+    }
+    .banner-text h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .banner-text h1 {
+        font-size: 25px;
+        line-height: 35px;
+        text-align: center;
+    }
+    .banner-text .slider-btn {
+        display: none;
+    }
+    .body-menu-1 {
+        position: relative;
+    }
+    .grid-section-1 h5 {
+        letter-spacing: 0;
+        font-size: 14px;
+        margin-left: -20px;
+        width: 152px;
+    }
+    .grid-select-2 {
+        float: left;
+    }
+    .grid-select-1 {
+        float: left;
+    }
+    #banner.owl-theme .owl-dots .owl-dot {
+        display: inline-block;
+        zoom: 1;
+        transform: rotate(0deg);
+        margin-bottom: 60px;
+    }
+    #banner .owl-dots {
+        top: 50%;
+        right: 50%;
+        margin-top: -60px;
+        margin-right: -80px;
+    }
+    #banner .owl-dots {
+        top: 85%;
+        right: 50%;
+        margin-top: 0;
+        margin-right: -80px;
+    }
+    .service-section {
+        width: 100%;
+        float: left;
+        position: relative;
+        top: 0;
+        z-index: 1;
+        margin-bottom: 0;
+    }
+    .team-section .headding-texts h3 {
+        margin-top: 2.3px;
+        font-size: 16px;
+    }
+    .priceing-section .headding-texts h3 {
+        margin-top: 2.3px;
+        font-size: 16px;
+    }
+    .headding-texts h3 {
+        margin-top: 2.3px;
+        font-size: 16px;
+    }
+    .product-section .headding-texts h3 {
+        margin-top: 2.3px;
+        font-size: 16px;
+    }
+    .headding-texts .right-icon {
+        top: 9px;
+    }
+    .headding-texts .left-icon {
+        top: 9px;
+    }
+    .owl-theme .owl-nav .owl-prev {
+        float: left;
+        margin-left: 0;
+    }
+    .owl-theme .owl-nav .owl-next {
+        float: left;
+        margin-right: 0;
+    }
+    .add-cart-section {
+        margin: -1px 0;
+        padding: 30px 20px;
+        margin-left: -5px;
+    }
+    .agencyboxs {
+        text-align: center;
+    }
+    .newletter-icons {
+        text-align: center;
+        margin-bottom: -30px;
+    }
+    ul.fot-bom-bar {
+        float: none;
+        margin: auto;
+        display: table;
+    }
+    .navbar-header.add-cart-section {
+        right: 0;
+    }
+    .blog-comment {
+        text-align: center;
+    }
+    .blog-comment h5 a {
+        float: none;
+    }
+    .comment-img {
+        margin: auto;
+        width: 30%;
+        display: table;
+    }
+    .sidebar-gallary-list ul li {
+        width: 33.33%;
+    }
+    .cart-quantity-box {
+        padding: 0 7px;
+        right: 44px;
+        border-radius: 100%;
+        font-size: 10px;
+        line-height: 26px;
+        height: 25px;
+        margin-top: -21px;
+    }
+    #home-page-1 .testimonal-section .owl-nav {
+        position: relative;
+        margin-top: 30px;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-next {
+        float: none;
+        margin-right: 0;
+    }
+    #home-page-1 .testimonal-section .owl-theme .owl-nav .owl-prev {
+        float: none;
+        margin-left: 0;
+    }
+    #home-page-1 .sticky-header {
+        position: relative;
+    }
+    figure.about-img {
+        margin-bottom: 30px;
+    }
+    .theme-headding-section h3 {
+        font-size: 20px;
+    }
+    #home-page-1 .client-nane-hed {
+        padding-top: 0;
+    }
+    .office-detail-sec {
+        margin-top: 30px;
+    }
+    #home-page-1 .blogs-sec a.bolg-date {
+        padding-left: 15px;
+    }
+    #home-page-1 .blogs-sec a.bolg-comment-icons {
+        padding-right: 15px;
+    }
+    #home-page-1 .footer-middle-sec {
+        padding: 10px;
+        text-align: center;
+    }
+    #home-page-1 .footer-middle-sec figure {
+        float: none;
+        padding-right: 0px;
+    }
+    #home-page-1 .footer-middle-sec h3 {
+        font-size: 22px;
+        padding-top: 10px;
+    }
+    #home-page-1 .footer-middle-sec a.itg-button-2 {
+        float: none;
+    }
+    #home-page-1 .newletter-section .transform-footer {
+        float: none;
+        text-align: center;
+    }
+    #home-page-1 .newletter-section .transform-footer h3 {
+        padding-right: 0;
+    }
+    #home-page-1 .newletter-section .search-bar,
+    .search-bar-1 {
+        float: none;
+        position: relative;
+        width: 100%;
+        padding-top: 0px;
+    }
+    #home-page-1 .newletter-section .search-bar button {
+        top: 0px;
+    }
+    #home-page-1 ul.newletter-icon-box {
+        padding-top: 0;
+        width: 100%;
+        text-align: center;
+    }
+    #home-page-1 .navbar-collapse.body-menu-section ul li a {
+        color: #fff;
+    }
+    #home-page-1 .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #fff;
+    }
+    figure.about-img img {
+        width: 100%;
+    }
+    .faq-section .search-bar {
+        margin-top: 30px;
+    }
+	.padding-bottom{
+		padding-bottom:0;
+	}
+	.grid-select-1.spn select {
+		width: 37%;
+		padding: 0 5px;
+		margin-right: 5px;
+	}
+	.pagination-box {
+		margin-top: 30px;
+	}
+	.follow-icons {
+		margin-bottom: 30px;
+		float: left;
+		width: 100%;
+		position: relative;
+	}
+	.order-text.box {
+		background: transparent;
+	}
+	.order-table-cell.box input {
+		width: 50%;
+	}
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+    .nav-menu-sec {
+        position: relative;
+    }
+    .service-page .services-box-instructor {
+        padding: 85px 0;
+    }
+    #home-page-1 #sliderhome .banner-main-headding {
+        top: 10%;
+    }
+    p.service-text-paragraf {
+        padding: 0px 20px;
+    }
+    .details-section-boxs {
+        width: 100%;
+        max-height: 396px;
+        overflow: hidden;
+    }
+    .product-dtl p {
+        font-size: 12px;
+        line-height: 1.5em;
+        font-weight: 600;
+        padding-top: 10px;
+        color: #000;
+    }
+    .grid-section-1 h5 {
+        letter-spacing: 0px;
+    }
+    .grid figure {
+        max-height: 396px;
+    }
+    .body-menu-section-menu-1 {
+        position: relative;
+    }
+    .navbar-default {
+        background-color: transparent;
+    }
+    .navbar-toggle {
+        margin: 0;
+    }
+    .itg-button-2 {
+        top: 0;
+    }
+    .navbar-collapse.collapse.body-menu-section ul li a {
+        color: #FFF;
+    }
+    .wa-main-menu.navbar-default.navbar-nav>li>a:hover {
+        color: #000;
+        background-color: transparent;
+    }
+    .yoga-service {
+        top: 0;
+        margin: 10px 0;
+    }
+    .navbar-nav > li {
+        text-align: left;
+    }
+    .breadcrumb-section {
+        padding-bottom: 100px;
+        padding-top: 100px;
+    }
+    .banner-text-sec p,
+    .yoga-service h3 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .yoga-service h1 {
+        font-size: 20px;
+    }
+    .banners-text-1 p {
+        font-size: 26px;
+        text-align: center;
+    }
+    .banners-text-1 {
+        margin: 8px 0px;
+    }
+    .grid figure figcaption > a {
+        padding: 19% 0;
+        font-size: 12px;
+    }
+    .services-box-instructor {
+        padding: 80px 0;
+    }
+    figure.effect-bubba:hover h3 {
+        margin-bottom: -5px;
+    }
+    .img-position {
+        left: 40%;
+    }
+    .instructor,
+    .instructor-1 {
+        padding: 15.1% 0;
+    }
+    .instructor h3,
+    .instructor-1 h3 {
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
+    .instructor-1 p {
+        font-size: 14px;
+    }
+    .instructor a,
+    .instructor-1 a {
+        padding: 0px;
+        text-align: center:
+    }
+    .our-team-effect figure img,
+    figure.img-responsive img {
+        width: 100%;
+    }
+    .body-agency h3 {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .agency-1 {
+        padding: 0;
+    }
+    .respons-img {
+        padding-top: 0px;
+    }
+    .respons-pad {
+        padding-bottom: 70px;
+    }
+    .baby-img,
+    .agency-1 p {
+        margin-bottom: 30px;
+    }
+    .footer-detail {
+        padding-bottom: 30px;
+    }
+    .banner-btn-1,
+    .body-agency h3,
+    .agency-1 p,
+    .agency-1 h4,
+    .color-detail p,
+    .transform-footer h3 {
+        text-align: center;
+    }
+    figure.img-res {
+        text-align: center;
+        width: 25%;
+        margin: 0 auto;
+    }
+    .slider-btn {
+        top: -5px;
+    }
+    .margin-detail {
+        float: none;
+        width: 0;
+        display: table;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .trainer-icon ul li {
+        padding: 4px;
+    }
+	li.border-left-site p {
+		font-size: 13px;
+	}
+    .tooltip.top .tooltip-arrow {
+        margin-left: -15px;
+    }
+    .service-icon h4 {
+        padding: 10px 42px;
+        text-align: center;
+        float: none;
+    }
+    .service-icon-1 {
+        position: relative;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .service-icon-1 ul li {
+        padding: 10px;
+        text-align: center;
+        display: inline-block;
+        float: none;
+    }
+    .error-page h1 {
+        font-size: 26px;
+    }
+    .search-404 input {
+        margin: 0;
+    }
+    .search-404 button {
+        top: 1px;
+        right: 0;
+    }
+    .img-position-1 {
+        padding-top: 20px;
+        padding-bottom: 0;
+    }
+    .serv-text {
+        padding: 65px 0;
+    }
+    .serv-text h3,
+    .serv-text-1 h3 {
+        margin: 0px;
+        text-align: center;
+    }
+    .serv-text p,
+    .serv-text-1 p {
+        margin-top: 0;
+        text-align: center;
+    }
+    .serv-text a,
+    .serv-text-1 a {
+        padding: 0;
+        text-align: center;
+    }
+    .img-position-2 {
+        margin: 20px 0 0 0;
+        width: 100%;
+    }
+    .img-position-3 {
+        padding: 20px 0 0 0;
+    }
+    .instructor-serv p {
+        padding: 0 15px;
+        text-align: center;
+        margin: 0;
+    }
+    .serv-text-1 {
+        padding: 76px 0px 43px 0px;
+    }
+    .serv-bubba img {
+        width: 100%;
+    }
+    .instructor-serv h3,
+    .serv-text-1 h3 {
+        font-size: 25px;
+    }
+    figure.team-img img,
+    .trainer-effect figure img,
+    .trainer-color {
+        width: 100%;
+    }
+	.update_cart a{
+		padding:5px 6px;
+	}
+    .grid-select {
+        padding: 15px 0px;
+    }
+    .grid-select-1 {
+        float: left;
+    }
+    .grid-select-1 h4 {
+        float: left;
+        padding: 9px 19px;
+        font-size: 16px;
+    }
+    .grid-select-2 h4 {
+        float: left;
+        padding: 9px 12px;
+        font-size: 16px;
+    }
+    .grid-select-2 {
+        float: left;
+    }
+    .grid-section-1 h5 {
+        letter-spacing: 0px;
+    }
+    .class-font p {
+        font-size: 14px;
+    }
+    .depth-section-1,
+    .depth-section-2 {
+        margin-left: 0;
+    }
+    .search-bar-1 button {
+        top: 1px;
+        left: 100%;
+        margin-left: -38px;
+    }
+    .search-bar button {
+        left: 90%;
+    }
+    .sidebar-banner,
+    .sidebar-banner figure,
+    .sidebar-banner figure img,
+    .footer-gallary li a img,
+    .footer-gallary li a,
+    .img-service li a,
+    .img-service li a img {
+        width: 100%;
+    }
+    figure.comment-img img {
+        margin-bottom: 15px;
+    }
+    .blog-style {
+        margin-bottom: 30px;
+    }
+    .depth-section,
+    .depth-section-1,
+    .depth-section-2 {
+        margin-bottom: 10px;
+    }
+    .comming-main {
+		margin-top: -213px;
+	}
+	.comming-soon-content p {
+		max-width: 82%;
+		margin: auto;
+	}
+    .comming-soon-content {
+        padding-bottom: 0px;
+    }
+    .comming-soon-content h2 {
+        font-size: 29px;
+    }
+    .timer {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        padding: 13px 0;
+        margin: 10px 0px;
+    }
+    #demo {
+        padding: 50px 3px;
+        display: table;
+        float: none;
+        margin: 0 auto;
+        width: 0;
+    }
+    .com-pad0 {
+        padding: 0 5px;
+    }
+    #demo span {
+        font-size: 12px;
+        padding: 0px 0px;
+    }
+    .comming-soon-icon {
+        padding-top: 0px;
+        margin: 0;
+    }
+    .comming-soon-icon ul {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+        display: table;
+        width: 0;
+    }
+    .comming-soon-icon ul li {
+        padding: 0 0 0 10px;
+        letter-spacing: 0px;
+    }
+    .transform-footer h3 {
+        font-size: 22px;
+    }
+    .newletter-section .search-bar input,
+    .newletter-section .search-bar-1 input {
+        font-size: 13px;
+    }
+    .newletter-section .search-bar button {
+        font-size: 13px;
+    }
+    .footer-top-box p {
+        padding: 0 0px;
+        font-size: 14px;
+    }
+    .fot-bom-bar li a {
+        font-size: 12px;
+        padding: 15px 2px;
+    }
+    .grid-select-1 {
+        float: left;
+    }
+    .footer-secton-bottom .capitalize p {
+        text-align: center;
+    }
+    .banner-main-headding {
+        top: 14%;
+    }
+	.margin-bottom{
+		margin-bottom:0;
+	}
+}
